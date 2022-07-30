@@ -1,0 +1,5 @@
+name: Alter Car
+type: module
+description: 'Simple module for job interview.'
+core: 8.x
+core_version_requirement: ^8 || ^9

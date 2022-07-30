@@ -1,0 +1,7 @@
+alter_car.links:
+  path: '/user/cars'
+  defaults:
+    _controller: '\Drupal\alter_car\Controller\AlterCarController::links'
+  requirements:
+    _permissions: 'access content'
+    _access: 'TRUE'
